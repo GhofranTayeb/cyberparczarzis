@@ -1,0 +1,11 @@
+.example-class {
+    /* Replace this with the path to your image file */
+    background-image: url('map.png');
+   
+    /* Other background properties */
+    background-size: cover;
+    background-position: center;
+    /* Other styles */
+    font-family: sans-serif;
+    color: #333;
+  }
